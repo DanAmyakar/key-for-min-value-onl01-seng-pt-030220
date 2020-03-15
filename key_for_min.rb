@@ -8,6 +8,7 @@ def key_for_min_value(name_hash)
     if x == 0 || num < x
       x = num
       i = name
+    end
   end    
   i
 end
